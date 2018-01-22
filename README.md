@@ -1,5 +1,4 @@
-# workaround-run-cordova-ios-simulator-to-windows-from-macos-using-xamarin
-This is workaround. Run Cordova iOS simulator on Windows from macOS iOS simulator using Xamarin.
+# This is workaround, Run Cordova iOS simulator on Windows from macOS iOS simulator using Visual Studio.
 
 **This is no support debug mode.**
 
