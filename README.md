@@ -57,7 +57,7 @@ Click "OK" and connect to your mac OS. You can see log via login terminal.
 
 Run your Cordova project, target iOS.
 
-![build-iOS](build-iOS.PNG)
+![build-ios](build-ios.PNG)
 
 You can see iOS simulator on your macOS.
 
