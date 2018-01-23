@@ -10,7 +10,7 @@
 
 https://www.visualstudio.com/vs/visual-studio-mac
 
-### Install remotebuild.
+### Install npm packages.
 
 ```
 brew install nodejs
@@ -19,7 +19,12 @@ brew install nodejs
 ```
 npm install -g remotebuild
 ```
+
 ***If you were installed brew already, press enter 3 times.***
+
+```
+npm install -g ios-sim
+```
 
 ### Allow remote login.
 
