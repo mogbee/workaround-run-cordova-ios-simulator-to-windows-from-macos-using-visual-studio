@@ -59,7 +59,9 @@ Open "Tools > Options > iOS Configuration" on Visual Studio.
 
 Click "OK" and connect to your mac OS. You can see log via login terminal.
 
-Run your Cordova project, target iOS.
+Run your Cordova project targeting iOS.
+
+Don't forget to add settings for iOS to build.json.
 
 ![build-ios](build-ios.PNG)
 
